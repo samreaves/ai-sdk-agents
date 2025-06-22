@@ -10,5 +10,5 @@ ANTHROPIC_API_KEY=yourAnthropicAPIKey
 
 ## Why This Repo Exists
 This is a demo for anyone watching showing how:
-• to use tool calls for various model providers (such as Anthropic or Open AI)
-• that LLMs can act as routers of information
+- to use tool calls for various model providers (such as Anthropic or Open AI)
+- that LLMs can act as routers of information
